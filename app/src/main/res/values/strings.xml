@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMICalculatorS017サンプル</string>
+    <string name="tv_title">BMI計算機</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_age1">歳</string>
+    <string name="tv_Height">身長</string>
+    <string name="tv_Height1">cm</string>
+    <string name="tv_Weight">体重</string>
+    <string name="tv_Weight1">kg</string>
+    <string name="bt_Math">計算</string>
+    <string name="bt_clear">クリア</string>
+    <string name="tv_result"></string>
+</resources>
